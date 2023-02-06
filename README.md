@@ -8,11 +8,11 @@ Using {
     - PostgreSQL;
 
   API:
-    - Java: Maven;
+    - Java + Maven (Servlet);
     
   WEB:
-    - HTML: JSP + bootstrap;
-    - CSS: bootstrap;
+    - HTML + JSP + bootstrap;
+    - CSS + bootstrap;
     - JavaScript.
 }
 
