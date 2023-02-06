@@ -6,6 +6,7 @@ WebSite for selling digital arts.
 Using {
   API:
     - Java: Maven;
+    - PostgreSQL;
     
   WEB:
     - HTML: JSP + bootstrap;
